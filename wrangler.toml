@@ -7,7 +7,7 @@ pages_build_output_dir = ".vercel/output/static"
 
 [env.production.vars]
 GITHUB_ID = "Ov23liAwyVHXdweV5Ebw"
-GITHUB_OWNER = "liuxuan897"
+GITHUB_OWNER = "liuxaun897"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://navwx.5418857.xyz/api/auth"
