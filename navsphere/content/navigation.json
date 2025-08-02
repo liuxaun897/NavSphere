@@ -809,6 +809,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754149209259",
+      "title": "娱乐休闲",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
